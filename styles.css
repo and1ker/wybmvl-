@@ -1,4 +1,4 @@
-cbody {
+body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,7 +54,6 @@ cbody {
   .lena-image{
     width: 400px;
     height: auto;
-    border: black;
   }
   .cute-cat{
     width: 10;
