@@ -53,11 +53,11 @@
 })();
 */
 const messages = [
-    "Bist du dir sicher?",
-    "Warum D:?",
-    "ohman :c",
-    "ochman, bitte",
-    ":C"
+    "sichi?",
+    "Stoopppp",
+    "jetzt sichiee",
+    "6 7",
+    ":c"
 ];
 
 let messageIndex = 0;
